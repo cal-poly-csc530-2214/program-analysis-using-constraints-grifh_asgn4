@@ -1,3 +1,4 @@
 # program-analysis-using-constraints-grifh_asgn4
 program-analysis-using-constraints-grifh_asgn4 created by GitHub Classroom
-Here i am
+
+For this assignment, i started off by downloading the z3 python package. After reading some of the documentation on this tool, I proceeded to spent a whole bunch of time fiddling with the steps in the paper and trying to make it work in z3, with varying success. I actually felt fine until the final part of step 2. Getting the lambdas involved made things a little more difficult. I used python because thats where the package was, but from a functionality standpoint it may have been better to use racket with matching, but I wasn't sure I would have time to implement the necessary structures, that largely exist in z3 (I already went over time as is). Next assignment, I think I will need to do a better job of utilizing class and office hours because I continue to carry large overhead on reading and understanding the paper.
